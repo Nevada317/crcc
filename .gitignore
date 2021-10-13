@@ -1,0 +1,5 @@
+crcc
+*.o
+~*
+*.kate-swp
+*.lock
